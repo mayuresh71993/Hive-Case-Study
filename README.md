@@ -12,5 +12,5 @@ The data used in this assignment is a public clickstream dataset of a cosmetics 
 ![image](https://user-images.githubusercontent.com/32269471/200136589-8369278e-9f49-4dfc-9fc3-5904dffe2b6e.png)
 
 # The data is available from the link provided:
-https://e-commerce-events-ml.s3.amazonaws.com/2019-Oct.csv
+https://e-commerce-events-ml.s3.amazonaws.com/2019-Oct.csv<br/>
 https://e-commerce-events-ml.s3.amazonaws.com/2019-Nov.csv
